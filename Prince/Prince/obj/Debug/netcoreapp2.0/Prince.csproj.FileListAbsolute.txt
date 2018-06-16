@@ -1,0 +1,11 @@
+C:\Users\tasha\source\repos\Prince\Prince\bin\Debug\netcoreapp2.0\Prince.deps.json
+C:\Users\tasha\source\repos\Prince\Prince\bin\Debug\netcoreapp2.0\Prince.runtimeconfig.json
+C:\Users\tasha\source\repos\Prince\Prince\bin\Debug\netcoreapp2.0\Prince.runtimeconfig.dev.json
+C:\Users\tasha\source\repos\Prince\Prince\bin\Debug\netcoreapp2.0\Prince.dll
+C:\Users\tasha\source\repos\Prince\Prince\bin\Debug\netcoreapp2.0\Prince.pdb
+C:\Users\tasha\source\repos\Prince\Prince\obj\Debug\netcoreapp2.0\Prince.csprojAssemblyReference.cache
+C:\Users\tasha\source\repos\Prince\Prince\obj\Debug\netcoreapp2.0\Prince.csproj.CoreCompileInputs.cache
+C:\Users\tasha\source\repos\Prince\Prince\obj\Debug\netcoreapp2.0\Prince.AssemblyInfoInputs.cache
+C:\Users\tasha\source\repos\Prince\Prince\obj\Debug\netcoreapp2.0\Prince.AssemblyInfo.cs
+C:\Users\tasha\source\repos\Prince\Prince\obj\Debug\netcoreapp2.0\Prince.dll
+C:\Users\tasha\source\repos\Prince\Prince\obj\Debug\netcoreapp2.0\Prince.pdb

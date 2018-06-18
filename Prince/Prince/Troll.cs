@@ -16,5 +16,9 @@ namespace Prince
             _strength = strength;
             _color = color;
         }
+        public void continue()
+        {
+            Console.WriteLine("To be continued..");
+        }
     }
 }

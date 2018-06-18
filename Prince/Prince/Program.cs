@@ -108,6 +108,9 @@ namespace Prince
 
             babyTroll btroll = new babyTroll(tName, 10, "yellow", 25);
             Console.ReadKey();
+            
+            storyTroll.continue();
+            Console.ReadKey();
         }
     }
 }
